@@ -12,7 +12,7 @@ Protected by `CC BY-NC-SA 4.0`. [Here](https://creativecommons.org/licenses/by-n
 
 You'll need [NMS.py](https://github.com/monkeyman192/NMS.py) installed, and [NMS Mod Builder](https://github.com/cmkushnir/NMSModBuilder) to build everything.
 
-Place this entire repository within Scripts/Mod. Then follow the guide for building mods in the NMS Mod Builder repo.
+In your NMS Mod Builder folder, you'll want to put everything in this repo under `Scripts/Mod/whatever-you-wanna-call-it`. Then follow the guide for building mods in the NMS Mod Builder repo.
 
 Finally, launch the game in any ol' terminal with `pymhf run nmspy`. See below.
 
